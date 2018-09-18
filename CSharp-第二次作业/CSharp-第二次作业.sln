@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第6题", "CSharp-第二次
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第7题", "第7题\第7题.csproj", "{DFEFC4C3-16DE-4921-9BA2-7D96B144D84F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第8题", "第8题\第8题.csproj", "{7A1B2D57-6494-4AD9-B7AC-FC92ACCEA82C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第9题", "第8题\第9题.csproj", "{7A1B2D57-6494-4AD9-B7AC-FC92ACCEA82C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C4882610-E24F-4F59-9B63-60166391251C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharp_第二次作业</RootNamespace>
-    <AssemblyName>CSharp-第二次作业</AssemblyName>
+    <RootNamespace>第6题</RootNamespace>
+    <AssemblyName>第6题</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

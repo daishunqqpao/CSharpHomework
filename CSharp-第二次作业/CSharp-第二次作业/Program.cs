@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp_第二次作业
+namespace 第6题
 {
     class Program
     {

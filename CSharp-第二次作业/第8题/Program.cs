@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 第8题
+namespace 第9题
 {
     class Program
     {

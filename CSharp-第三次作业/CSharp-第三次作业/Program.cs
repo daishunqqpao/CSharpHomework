@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 //使用换行符，默认在windows下
 namespace CSharp_第三次作业
 {
-    //抽象图表接口：抽象产品类  
+   
     public interface Graph
     {
        void acreage();
-    }
+    }//计算面积
 
      
     public class Triangle : Graph

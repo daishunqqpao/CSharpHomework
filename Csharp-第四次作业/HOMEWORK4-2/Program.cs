@@ -14,18 +14,18 @@ namespace HOMEWORK4_2
     {
         public string ordernum
         {
-            get { return ordernum; }
-            set { ordernum = value; }
+            get;
+            set;
         }
         public string goodname
         {
-            get { return goodname; }
-            set { goodname = value; }
+            get;
+            set;
         }
         public string customername
         {
-            get { return customername; }
-            set { customername = value; }
+            get;
+            set;
         }
         public OrderDetails(string ordernum,string goodname,string customername)
             {

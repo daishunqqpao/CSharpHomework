@@ -111,6 +111,9 @@ namespace Program2_order_renew_
                 p2.goodname = Console.ReadLine();
                 Console.WriteLine("请输入新的客人名称：");
                 p2.customername = Console.ReadLine();
+                Console.WriteLine("请输入新的订单价格：");
+                string moon = Console.ReadLine();
+                p2.ordervalue = double.Parse(moon);
             }
             catch
             {
@@ -135,7 +138,7 @@ namespace Program2_order_renew_
                 Console.WriteLine("请输入查询的客户姓名:");
                 string nn = Console.ReadLine();
                 var sb = from OrderDetails god in order
-                         where god.goodname == nn
+                         where god.customername == nn
                          select god;
 
                 foreach (var m in sb)
@@ -146,7 +149,7 @@ namespace Program2_order_renew_
                 Console.WriteLine("请输入查询的订单号:");
                 string pp = Console.ReadLine();                
                 var bs = from OrderDetails god in order
-                         where god.goodname == nn
+                         where god.ordernum == pp
                          select god;
 
                 foreach (var m in bs)

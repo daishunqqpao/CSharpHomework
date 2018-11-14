@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ArrayOfOrderService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderService xsi:type="OrderDetails">
+    <ordernum>20181102003</ordernum>
+    <goodname>饺子</goodname>
+    <customername>张三</customername>
+    <ordervalue>10000</ordervalue>
+    <customerphone>13797238756</customerphone>
+  </OrderService>
+  <OrderService xsi:type="OrderDetails">
+    <ordernum>20181332002</ordernum>
+    <goodname>包子</goodname>
+    <customername>李四</customername>
+    <ordervalue>20000</ordervalue>
+    <customerphone>13882739372</customerphone>
+  </OrderService>
+  <OrderService xsi:type="OrderDetails">
+    <ordernum>20181212001</ordernum>
+    <goodname>馒头</goodname>
+    <customername>王五</customername>
+    <ordervalue>1000</ordervalue>
+    <customerphone>13502738123</customerphone>
+  </OrderService>
+  <OrderService xsi:type="OrderDetails">
+    <goodname>面条</goodname>
+    <customername>小猪</customername>
+    <ordervalue>1000</ordervalue>
+    <customerphone>13502738123</customerphone>
+  </OrderService>
+  <OrderService xsi:type="OrderDetails">
+    <ordernum>20181212001</ordernum>
+    <goodname>锅盔</goodname>
+    <customername>小狗</customername>
+    <ordervalue>1000</ordervalue>
+    <customerphone>13502738123</customerphone>
+  </OrderService>
+</ArrayOfOrderService>
